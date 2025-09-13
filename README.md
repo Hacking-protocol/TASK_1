@@ -20,4 +20,5 @@ chmod -R 777 DVWA
 12) now replace the off with on value in allow_url_fopen and allow_url_include both these parameters
 13) now restart the apache2 server and go to your browser and type localhost:4040 or 127.0.0.1:4040
 14) now login with the user name and password you created, In this case its username: admin and password: password
+15) Now you can test the DVWA and practice your skills 
   
